@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:cashew"
+    },
+    {
+      "item": "garnished:walnut"
+    },
+    {
+      "item": "garnished:almond"
+    },
+    {
+      "item": "garnished:pecan"
+    },
+    {
+      "item": "garnished:pistachio"
+    },
+    {
+      "item": "garnished:macadamia"
+    },
+    {
+      "item": "garnished:peanut"
+    },
+    {
+      "item": "garnished:hazelnut"
+    },
+    {
+      "item": "garnished:chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:garnished_nut_mix"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "garnished:walnut"
+    },
+    {
+      "item": "garnished:walnut"
+    },
+    {
+      "item": "garnished:walnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:walnut_loaf"
+    }
+  ],
+  "heatRequirement": "heated"
+}

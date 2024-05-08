@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:cracked_walnut"
+    },
+    {
+      "item": "garnished:cracked_walnut"
+    },
+    {
+      "item": "garnished:cracked_pecan"
+    },
+    {
+      "item": "garnished:cashew_mixture"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "amount": 20250,
+      "fluid": "create:chocolate",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:derby_pie"
+    }
+  ],
+  "heatRequirement": "heated"
+}

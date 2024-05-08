@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:honeyed_cashew"
+    },
+    {
+      "item": "garnished:honeyed_walnut"
+    },
+    {
+      "item": "garnished:honeyed_almond"
+    },
+    {
+      "item": "garnished:honeyed_pecan"
+    },
+    {
+      "item": "garnished:honeyed_pistachio"
+    },
+    {
+      "item": "garnished:honeyed_macadamia"
+    },
+    {
+      "item": "garnished:honeyed_peanut"
+    },
+    {
+      "item": "garnished:honeyed_hazelnut"
+    },
+    {
+      "item": "garnished:honeyed_chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:honeyed_nut_mix"
+    }
+  ],
+  "heatRequirement": "heated"
+}
