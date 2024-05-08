@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "garnished_additions:garnished_nut_mix"
+      },
+      {
+        "amount": 81000,
+        "fluid": "create:chocolate",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "garnished_additions:chocolate_nut_mix"
+      }
+    ]
+  }
