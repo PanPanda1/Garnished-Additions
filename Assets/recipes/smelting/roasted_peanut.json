@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "garnished:peanut"
-  },
-  "result": "garnished_additions:roasted_peanut",
-  "experience": 0.4,
-  "cookingtime": 200
-}
