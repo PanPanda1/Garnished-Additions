@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "garnished:honeyed_macadamia"
+  },
+  "result": "garnished_additions:honey_roasted_macadamia",
+  "experience": 0.4,
+  "cookingtime": 200
+}

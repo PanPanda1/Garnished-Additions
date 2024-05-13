@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "garnished:honeyed_walnut"
+  },
+  "result": "garnished_additions:honey_roasted_walnut",
+  "experience": 0.4,
+  "cookingtime": 100
+}

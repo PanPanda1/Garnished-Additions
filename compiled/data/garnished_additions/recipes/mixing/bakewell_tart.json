@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "garnished:cracked_almond"
+    },
+    {
+      "item": "garnished:pistachio"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:bakewell_tart"
+    }
+  ],
+  "heatRequirement": "heated"
+}

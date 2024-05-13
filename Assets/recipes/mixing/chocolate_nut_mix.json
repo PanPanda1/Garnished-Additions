@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:chocolate_glazed_cashew"
+    },
+    {
+      "item": "garnished:chocolate_glazed_walnut"
+    },
+    {
+      "item": "garnished:chocolate_glazed_almond"
+    },
+    {
+      "item": "garnished:chocolate_glazed_pecan"
+    },
+    {
+      "item": "garnished:chocolate_glazed_pistachio"
+    },
+    {
+      "item": "garnished:chocolate_glazed_macadamia"
+    },
+    {
+      "item": "garnished:chocolate_glazed_peanut"
+    },
+    {
+      "item": "garnished:chocolate_glazed_hazelnut"
+    },
+    {
+      "item": "garnished:chocolate_glazed_chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:chocolate_nut_mix"
+    }
+  ],
+  "heatRequirement": "heated"
+}

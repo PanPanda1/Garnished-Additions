@@ -1,0 +1,48 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished:cracked_peanut"
+  },
+  "categories": [
+    "dirt",
+    "grass"
+  ],
+  "growthTicks": 2400,
+  "display": {
+    "block": "garnished:peanut_sapling"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished:ungarnished_peanut"
+      },
+      "minRolls": 2,
+      "maxRolls": 4
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished:nut_log"
+      },
+      "minRolls": 2,
+      "maxRolls": 4
+    },
+    {
+      "chance": 0.10,
+      "output": {
+        "item": "minecraft:stick"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    },
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "minecraft:apple"
+      },
+      "minRolls": 1,
+      "maxRolls": 1
+    }
+  ]
+}

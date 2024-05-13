@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "garnished_additions:nutium_ingot"
+    }
+  },
+  "result": {
+    "item": "garnished_additions:nutium_block",
+    "count": 1
+  }
+}

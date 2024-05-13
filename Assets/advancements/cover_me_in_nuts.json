@@ -1,0 +1,60 @@
+{
+    "display": {
+      "background": "minecraft:textures/block/stone.png",
+      "icon": {
+        "item": "garnished_additions:nutium_helmet"
+      },
+      "title": "Cover Me In Nuts!",
+      "description": "Equip yourself with full Nutium Armour",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "this_is_nuts": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "garnished_additions:nutium_helmet"
+              ],
+              "count": {
+                "min": 1,
+                "max": 64
+              }
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_chestplate"
+              ],
+              "count": {
+                "min": 1,
+                "max": 64
+              }
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_leggings"
+              ],
+              "count": {
+                "min": 1,
+                "max": 64
+              }
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_boots"
+              ],
+              "count": {
+                "min": 1,
+                "max": 64
+              }
+            }
+          ]
+        }
+      }
+    },
+  "parent": "garnished_additions:a_true_super_food"
+  }

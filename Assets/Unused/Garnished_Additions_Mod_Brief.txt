@@ -1,0 +1,59 @@
+# Mod Brief:
+## Items Currently Planned/Implemented:
+- Nutium Ingot
+- Cinder Flour Nut Mix
+- Melted Cinder Flour Nut Mix
+- Nutium Sword, Axe, Pickaxe, Shovel, Hoe
+- Nutium Armour
+- Nutium Hatchet
+- Chromatic Compound 
+
+## Processes:
+
+- Cinder Flour Nut Mix: All 9 Cinder Flour Nuts combined in a Crafting Table
+
+- Melted Cinder Flour Nut Mix: All 9 Melted Cinder Flour Nuts combined in a crafting table
+
+- Nutium Ingot: (Mixing) Melted Cinder Flour Nut Mix + 2 Netherite Scraps + 4 Gold, Over a Superheated Basin
+
+- Nutium Tools & Armour: Deploy Nutium Ingot to Netherite Tool/Armour > Spout 250ml Lava > Press > Press > Output
+
+- Renewable Honey: (Mixing) 1 Garnished Compound, 2 Sugar, 1000ml Water (Superheated) > 1 Honey Block
+
+- Renewable Prismarine Crystal: Bulk Haunt Quartz > Prismarine Crystal
+
+- Other Renewable Blocks to come
+
+- Chromatic Compound: (Mixing) 3 Glowstone Dust + 3 Obsidian Dust + Garnish Compound (Superheated) > 1 Chromatic Compound
+
+- Shadow Steel: (Mixing) 6 Obsidian Dust + Garnish Compound (Superheated) > 1 Shadow Steel
+
+- Refined Radiance: (Mixing) 6 Glowstone Dust + Garnish Compound (Superheated) > 1 Refined Radiance
+
+- Shadow Casing: Use 1 Shadow Compound on any Stripped Log
+
+- Radiant Casing: Use 1 Radiant Compound on any Stripped Log
+
+
+## Achievements:
+
+	- This Is Nuts!
+*Obtain your first Nutium Ingot*
+
+- Nutception
+*Make your first Cinder Flour Nut Mix*
+
+	- A True Super Food
+*Make your first Melted Cinder Flour Nut Mix. That'll pack a punch!*
+
+	- Cover Me In Nuts!
+(Challenge) *Equip yourself with full Nutium Armour*
+
+- Now This Is A Throwback!
+*Obtain your first Chromatic Compound*
+
+- Let There Be Light
+*Obtain your first Refined Radiance*
+
+- The Dark Side
+*Obtain your first Shadow Steel*

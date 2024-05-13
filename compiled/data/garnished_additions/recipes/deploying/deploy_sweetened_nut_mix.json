@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "garnished_additions:garnished_nut_mix"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "results": [
+      {
+        "item": "garnished_additions:sweetened_nut_mix"
+      }
+    ]
+  }
