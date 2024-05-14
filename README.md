@@ -16,5 +16,3 @@ Garnished Additions is an addon mod to Create Garnished that, by version 1.0.0, 
 This mod also absorbs my previous project, Garnished Botany Pots, as I saw no reason to keep both maintained separately when GBP fits within this mod in theme and function
 <h1> </h1>
 This Github should eventually act as a full guide through the mod's items and recipes. If I have missed anything/written anything incorrect, if you want to get sneak peaks on future updates, or just join the community and suggest new features and items, you can join the discord here.
-<h1>Notes: </h1>
-- Make Modrinth Page
