@@ -6,8 +6,8 @@
         width="200"
     ></a>
  <br> 
-  <a href="https://modrinth.com/mod/garnished-botany-pots"><img src="https://img.shields.io/modrinth/dt/garnished-botany-pots" alt="Modrinth Downloads"></a>
-   <a href="https://modrinth.com/mod/garnished-botany-pots"><img src="https://img.shields.io/modrinth/game-versions/garnished-botany-pots" alt="Modrinth Versions"></a>
+  <a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/dt/garnished-additions" alt="Modrinth Downloads"></a>
+   <a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/game-versions/garnished-additions" alt="Modrinth Versions"></a>
    <a href=""><img src="https://img.shields.io/github/license/PanPanda1/Garnished-Additions" alt="License"></a>
    <a href="https://discord.gg/dp7dQ5y4rr"><img src="https://img.shields.io/discord/1237021869949845614?color=5865f2&label=Discord&style=flat" alt="Discord"></a>
 </h1>
