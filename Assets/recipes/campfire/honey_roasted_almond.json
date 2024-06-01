@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "garnished:honeyed_almond"
+  },
+  "result": "garnished_additions:honey_roasted_almond",
+  "experience": 0.4,
+  "cookingtime": 600
+}

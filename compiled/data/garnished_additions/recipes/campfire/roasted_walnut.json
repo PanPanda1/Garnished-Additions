@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "garnished:walnut"
+  },
+  "result": "garnished_additions:roasted_walnut",
+  "experience": 0.4,
+  "cookingtime": 600
+}
