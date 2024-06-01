@@ -24,11 +24,6 @@
       "amount": 20250,
       "fluid": "milk:still_milk",
       "nbt": {}
-    },
-    {
-      "amount": 20250,
-      "fluid": "garnished:garnish",
-      "nbt": {}
     }
   ],
   "results": [
