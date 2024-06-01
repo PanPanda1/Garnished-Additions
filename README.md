@@ -6,8 +6,8 @@
         width="200"
     ></a>
  <br> 
-  <a href="https://modrinth.com/mod/garnished-botany-pots"><img src="https://img.shields.io/modrinth/dt/garnished-botany-pots" alt="Modrinth Downloads"></a>
-   <a href="https://modrinth.com/mod/garnished-botany-pots"><img src="https://img.shields.io/modrinth/game-versions/garnished-botany-pots" alt="Modrinth Versions"></a>
+  <a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/dt/garnished-additions" alt="Modrinth Downloads"></a>
+   <a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/game-versions/garnished-additions" alt="Modrinth Versions"></a>
    <a href=""><img src="https://img.shields.io/github/license/PanPanda1/Garnished-Additions" alt="License"></a>
    <a href="https://discord.gg/dp7dQ5y4rr"><img src="https://img.shields.io/discord/1237021869949845614?color=5865f2&label=Discord&style=flat" alt="Discord"></a>
 </h1>
@@ -16,5 +16,3 @@ Garnished Additions is an addon mod to Create Garnished that, by version 1.0.0, 
 This mod also absorbs my previous project, Garnished Botany Pots, as I saw no reason to keep both maintained separately when GBP fits within this mod in theme and function
 <h1> </h1>
 This Github should eventually act as a full guide through the mod's items and recipes. If I have missed anything/written anything incorrect, if you want to get sneak peaks on future updates, or just join the community and suggest new features and items, you can join the discord here.
-<h1>Notes: </h1>
-- Make Modrinth Page
