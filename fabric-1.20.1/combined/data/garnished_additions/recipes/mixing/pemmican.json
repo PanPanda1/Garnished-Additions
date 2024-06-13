@@ -1,0 +1,35 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "garnished:salt_compound"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:pemmican"
+    }
+  ],
+  "heatRequirement": "heated"
+}

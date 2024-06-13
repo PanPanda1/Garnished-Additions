@@ -1,0 +1,39 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "garnished:garnish_powder"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "amount": 1000,
+      "fluid": "minecraft:milk"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:pound_cake"
+    }
+  ]
+}

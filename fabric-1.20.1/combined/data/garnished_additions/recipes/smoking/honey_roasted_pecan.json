@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "garnished:honeyed_pecan"
+  },
+  "result": "garnished_additions:honey_roasted_pecan",
+  "experience": 0.4,
+  "cookingtime": 100
+}

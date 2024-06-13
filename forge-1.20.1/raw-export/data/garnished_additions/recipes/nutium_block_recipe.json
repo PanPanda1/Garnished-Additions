@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    {
+      "item": "garnished_additions:nutium_ingot"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:nutium_block",
+    "count": 1
+  }
+}

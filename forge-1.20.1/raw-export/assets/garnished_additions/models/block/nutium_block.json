@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "garnished_additions:block/nutium_block_bottom",
+    "up": "garnished_additions:block/nutium_block_top",
+    "north": "garnished_additions:block/nutium_block_side",
+    "east": "garnished_additions:block/nutium_block_side",
+    "south": "garnished_additions:block/nutium_block_side",
+    "west": "garnished_additions:block/nutium_block_side",
+    "particle": "garnished_additions:block/nutium_block_bottom"
+  },
+  "render_type": "solid"
+}

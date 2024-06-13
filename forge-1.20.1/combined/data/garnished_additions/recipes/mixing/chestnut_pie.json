@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "garnished:chestnut"
+    },
+    {
+      "item": "garnished:chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:chestnut_pie"
+    }
+  ],
+  "heatRequirement": "heated"
+}

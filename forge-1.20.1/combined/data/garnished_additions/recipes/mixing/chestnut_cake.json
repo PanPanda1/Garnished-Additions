@@ -1,0 +1,45 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "garnished:chestnut"
+    },
+    {
+      "item": "garnished:chestnut"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:milk",
+      "nbt": {}
+    },
+    {
+      "amount": 250,
+      "fluid": "create:chocolate",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:chestnut_cake"
+    }
+  ],
+  "heatRequirement": "heated"
+}

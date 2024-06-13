@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "garnished:salt_compound"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "garnished:garnish_powder"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:macaron"
+    }
+  ],
+  "heatRequirement": "heated"
+}

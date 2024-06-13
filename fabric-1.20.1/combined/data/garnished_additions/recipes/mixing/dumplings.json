@@ -1,0 +1,35 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:dough"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "tag": "c:mushrooms"
+    },
+    {
+      "item": "garnished:crushed_salt"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "garnished:chestnut"
+    },
+    {
+      "item": "garnished:chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:dumplings"
+    }
+  ],
+  "heatRequirement": "heated"
+}
