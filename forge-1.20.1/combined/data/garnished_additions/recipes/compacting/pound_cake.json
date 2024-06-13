@@ -9,22 +9,22 @@
       "item": "minecraft:sweet_berries"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "amount": 1000,

@@ -14,17 +14,18 @@
       "item": "garnished:bitter_almond"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
       "item": "garnished:crushed_salt"
     },
     {
       "amount": 250,
-      "fluidTag": "c:honey"
+      "fluid": "create:honey",
+      "nbt": {}
     }
   ],
   "results": [

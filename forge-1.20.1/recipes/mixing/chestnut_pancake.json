@@ -2,10 +2,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "item": "garnished:crushed_salt"
@@ -14,7 +14,7 @@
       "item": "minecraft:sugar"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
       "item": "garnished:chestnut"
@@ -24,7 +24,8 @@
     },
     {
       "amount": 250,
-      "fluidTag": "c:honey"
+      "fluid": "create:honey",
+      "nbt": {}
     },
     {
       "amount": 500,

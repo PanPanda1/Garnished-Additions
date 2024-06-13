@@ -2,16 +2,16 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "item": "minecraft:cooked_salmon"
@@ -20,7 +20,7 @@
       "item": "minecraft:cooked_chicken"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
       "item": "garnished:cracked_almond"

@@ -2,10 +2,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
       "item": "minecraft:mutton"
@@ -20,10 +20,10 @@
       "tag": "garnished:cracked_nuts"
     },
     {
-      "tag": "c:cheese"
+      "tag": "forge:cheese"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
       "item": "garnished:cashew_fruit"

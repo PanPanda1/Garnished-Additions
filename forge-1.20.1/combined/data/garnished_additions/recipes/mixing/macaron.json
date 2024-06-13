@@ -8,10 +8,10 @@
       "tag": "garnished:cracked_nuts"
     },
     {
-      "tag": "c:cheese"
+      "tag": "forge:cheese"
     },
     {
-      "tag": "c:cheese"
+      "tag": "forge:cheese"
     },
     {
       "item": "garnished:salt_compound"
@@ -23,10 +23,10 @@
       "item": "garnished:garnish_powder"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     }
   ],
   "results": [

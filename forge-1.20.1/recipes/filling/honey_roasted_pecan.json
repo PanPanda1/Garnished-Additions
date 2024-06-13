@@ -6,7 +6,8 @@
     },
     {
       "amount": 250,
-      "fluidTag": "c:honey"
+      "fluid": "create:honey",
+      "nbt": {}
     }
   ],
   "results": [

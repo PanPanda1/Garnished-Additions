@@ -5,25 +5,25 @@
       "tag": "garnished:ungarnished_nuts"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "item": "minecraft:potato"
     },
     {
-      "tag": "c:cheese"
+      "tag": "forge:cheese"
     },
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
       "item": "garnished:crushed_salt"

@@ -1,0 +1,27 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished:sorrowful_litchen"
+  },
+  "categories": [
+    "blackstone",
+    "basalt",
+    "crimson",
+    "netherack",
+    "wart_blocks"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "garnished:sorrowful_litchen"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished:sorrowful_litchen"
+      },
+      "minRolls": 1,
+      "maxRolls": 1
+    }
+  ]
+}

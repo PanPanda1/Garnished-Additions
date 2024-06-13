@@ -2,10 +2,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "item": "garnished:almond"

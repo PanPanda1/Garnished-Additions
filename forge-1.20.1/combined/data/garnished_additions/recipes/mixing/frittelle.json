@@ -5,7 +5,7 @@
       "item" : "minecraft:cooked_beef"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "item": "minecraft:sweet_berries"

@@ -2,22 +2,22 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
       "item": "minecraft:beef"
     },
     {
-      "tag": "c:mushrooms"
+      "item": "minecraft:brown_mushroom"
     },
     {
       "item": "garnished:crushed_salt"
     },
     {
-      "tag": "c:eggs"
+      "item": "minecraft:egg"
     },
     {
       "item": "garnished:chestnut"

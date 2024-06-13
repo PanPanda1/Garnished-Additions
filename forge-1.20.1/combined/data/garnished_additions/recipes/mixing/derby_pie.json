@@ -14,10 +14,10 @@
       "item": "garnished:cashew_mixture"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:dough"
+      "tag": "forge:dough"
     },
     {
       "item": "minecraft:egg"

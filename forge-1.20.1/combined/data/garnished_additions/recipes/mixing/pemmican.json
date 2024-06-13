@@ -2,13 +2,13 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:cheese"
+      "tag": "forge:cheese"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
-      "tag": "c:flour"
+      "tag": "forge:flour"
     },
     {
       "tag": "garnished:cracked_nuts"
