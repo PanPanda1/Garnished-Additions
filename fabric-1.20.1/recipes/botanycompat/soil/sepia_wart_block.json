@@ -1,10 +1,10 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "minecraft:warped_wart_block"
+    "item": "garnished:sepia_wart_block"
   },
   "display": {
-    "block": "minecraft:warped_wart_block"
+    "block": "garnished:sepia_wart_block"
   },
   "categories": [
     "wart_blocks"

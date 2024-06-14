@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="Academic Free License v3.0"
+license="MIT Licence"
 
 [[mods]]
 modId="garnished_additions"
-version="1.0.0"
+version="0.3.94"
 displayName="Garnished Additions"
-displayURL="https://mcreator.net"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="Drawing Office, MCreator"
+displayURL="https://modrinth.com/mod/garnished-additions"
+credits=""
+authors="Panda"
 
 [[dependencies.garnished_additions]]
     modId="minecraft"

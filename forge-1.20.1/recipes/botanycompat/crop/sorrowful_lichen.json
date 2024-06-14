@@ -1,7 +1,7 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "garnished:sorrowful_litchen"
+    "item": "garnished:sorrowful_lichen"
   },
   "categories": [
     "blackstone",
@@ -12,13 +12,13 @@
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "garnished:sorrowful_litchen"
+    "block": "garnished:sorrowful_lichen"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "garnished:sorrowful_litchen"
+        "item": "garnished:sorrowful_lichen"
       },
       "minRolls": 1,
       "maxRolls": 1

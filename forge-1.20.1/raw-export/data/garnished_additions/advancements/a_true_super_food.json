@@ -1,0 +1,36 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "garnished_additions:melted_cinder_flour_nut_mix"
+    },
+    "title": {
+      "translate": "advancements.a_true_super_food.title"
+    },
+    "description": {
+      "translate": "advancements.a_true_super_food.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_true_super_food": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "garnished_additions:melted_cinder_flour_nut_mix"
+            ],
+            "count": {
+              "min": 1,
+              "max": 576
+            }
+          }
+        ]
+      }
+    }
+  }
+}

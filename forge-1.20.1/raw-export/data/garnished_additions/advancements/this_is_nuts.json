@@ -1,31 +1,31 @@
 {
   "display": {
     "icon": {
-      "item": "garnished_additions:nutium_helmet"
+      "item": "garnished_additions:nutium_ingot"
     },
     "title": {
-      "translate": "advancements.cover_me_in_nuts.title"
+      "translate": "advancements.this_is_nuts.title"
     },
     "description": {
-      "translate": "advancements.cover_me_in_nuts.descr"
+      "translate": "advancements.this_is_nuts.descr"
     },
-    "frame": "challenge",
-    "show_toast": false,
+    "frame": "task",
+    "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "cover_me_in_nuts": {
+    "this_is_nuts": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "garnished_additions:nutium_helmet"
+              "garnished_additions:nutium_ingot"
             ],
             "count": {
               "min": 1,
-              "max": 1
+              "max": 2304
             }
           }
         ]
