@@ -15,7 +15,7 @@ Garnished Additions is an addon mod to Create: Garnished that, by version 1.0.0,
 
 <h3></h3>
 
-This mod also uses my previous project, Garnished Botany Pots, adding full support between [Create: Garnished](https://modrinth.com/mod/create-garnished)'s Plants & Nuts, and Botany Pots (from the mod [Botany Pots](https://modrinth.com/mod/botany-pots)). 
+This mod also uses my previous project, [Garnished Botany Pots](https://modrinth.com/datapack/garnished-botany-pots), adding full support between [Create: Garnished](https://modrinth.com/mod/create-garnished)'s Plants & Nuts, and Botany Pots (from the mod [Botany Pots](https://modrinth.com/mod/botany-pots)). 
 
 <h2></h2>
 
