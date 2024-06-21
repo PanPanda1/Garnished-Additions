@@ -9,6 +9,9 @@ displayName="Garnished Additions"
 displayURL="https://modrinth.com/mod/garnished-additions"
 credits=""
 authors="Panda"
+description='''
+Create: Garnished Addon that adds new armour, tools, recipes, and foods!
+'''
 
 [[dependencies.garnished_additions]]
     modId="minecraft"
@@ -16,7 +19,4 @@ authors="Panda"
     versionRange="[1.20.1]"
     ordering="NONE"
     side="BOTH"
-
-
-
 
