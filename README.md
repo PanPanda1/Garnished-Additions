@@ -22,7 +22,7 @@ This mod also uses my previous project, [Garnished Botany Pots](https://modrinth
 ### As of Version 0.3.95, Garnished Additions adds:
 - 24 Unique Food Items
 - 6 Nut Mixes
-- 3x Complete Nut Variations (**Salted**, **Roasted**, and **Honey Roasted**)
+- 3 Complete Nut Variations (**Salted**, **Roasted**, and **Honey Roasted**)
 - A New Ingot, Toolset, and Armour set
 
 <h3></h3>
