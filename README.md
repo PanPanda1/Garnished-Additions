@@ -8,9 +8,12 @@
     <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html"><img
         src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_64h.png"
         alt="Available on Forge"
-        width="200"
-    ></a>
-</h1>
+        width="200">
+    <br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/garnished-additions"><img src="https://cf.way2muchnoise.eu/short_1048415.svg" alt="CF"></a>
+<a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/dt/garnished-additions?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a></a>
+</h1> <br>
+
 Garnished Additions is an addon mod to Create: Garnished that, by version 1.0.0, will add over 100 new edible foods and a host of other items to the game, along with a new armour and tool set above Netherite!
 
 <h3></h3>
