@@ -20,7 +20,7 @@
       "item": "minecraft:cooked_chicken"
     },
     {
-      "item": "minecraft:egg"
+      "tag": "forge:eggs"
     },
     {
       "item": "garnished:cracked_almond"

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "garnished:ungarnished_nut_mix"
+  },
+  "result": "garnished_additions:roasted_nut_mix",
+  "experience": 0.4,
+  "cookingtime": 100
+}

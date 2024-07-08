@@ -23,10 +23,10 @@
       "item": "garnished:garnish_powder"
     },
     {
-      "item": "minecraft:egg"
+      "tag": "forge:eggs"
     },
     {
-      "item": "minecraft:egg"
+      "tag": "forge:eggs"
     }
   ],
   "results": [

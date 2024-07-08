@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "garnished_additions:honeyed_nut_mix"
+  },
+  "result": "garnished_additions:honey_roasted_nut_mix",
+  "experience": 0.4,
+  "cookingtime": 100
+}

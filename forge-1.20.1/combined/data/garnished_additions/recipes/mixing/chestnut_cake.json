@@ -17,7 +17,7 @@
       "item": "minecraft:sweet_berries"
     },
     {
-      "item": "minecraft:egg"
+      "tag": "forge:eggs"
     },
     {
       "item": "garnished:chestnut"

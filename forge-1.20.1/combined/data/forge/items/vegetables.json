@@ -1,0 +1,32 @@
+{
+    "replace": false,
+    "values": [
+        "garnished_additions:salted_almond",
+        "garnished_additions:salted_cashew",
+        "garnished_additions:salted_chestnut",
+        "garnished_additions:salted_hazelnut",
+        "garnished_additions:salted_macadamia",
+        "garnished_additions:salted_peanut",
+        "garnished_additions:salted_pecan",
+        "garnished_additions:salted_pistachio",
+        "garnished_additions:salted_walnut",
+        "garnished_additions:roasted_almond",
+        "garnished_additions:roasted_cashew",
+        "garnished_additions:roasted_chestnut",
+        "garnished_additions:roasted_hazelnut",
+        "garnished_additions:roasted_macadamia",
+        "garnished_additions:roasted_peanut",
+        "garnished_additions:roasted_pecan",
+        "garnished_additions:roasted_pistachio",
+        "garnished_additions:roasted_walnut",
+        "garnished_additions:honey_roasted_almond",
+        "garnished_additions:honey_roasted_cashew",
+        "garnished_additions:honey_roasted_chestnut",
+        "garnished_additions:honey_roasted_hazelnut",
+        "garnished_additions:honey_roasted_macadamia",
+        "garnished_additions:honey_roasted_peanut",
+        "garnished_additions:honey_roasted_pecan",
+        "garnished_additions:honey_roasted_pistachio",
+        "garnished_additions:honey_roasted_walnut"
+    ]
+  }
