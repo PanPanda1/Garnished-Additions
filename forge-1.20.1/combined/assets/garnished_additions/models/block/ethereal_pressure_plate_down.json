@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "garnished_additions:block/ethereal_planks"
+  },
+  "render_type": "solid"
+}

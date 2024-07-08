@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "garnished_additions:block/ethereal_log_top_alt2",
+    "up": "garnished_additions:block/ethereal_log_top_alt2",
+    "north": "garnished_additions:block/ethereal_log",
+    "east": "garnished_additions:block/ethereal_log",
+    "south": "garnished_additions:block/ethereal_log",
+    "west": "garnished_additions:block/ethereal_log",
+    "particle": "garnished_additions:block/ethereal_log_top_alt2"
+  },
+  "render_type": "solid"
+}

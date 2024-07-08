@@ -1,0 +1,31 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished:barren_roots"
+  },
+  "categories": [
+    "end_stone"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "garnished:barren_roots"
+  },
+  "drops": [
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "garnished:barren_roots"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    },
+    {
+      "chance": 0.35,
+      "output": {
+        "item": "garnished:chorus_tuft"
+      },
+      "minRolls": 1,
+      "maxRolls": 1
+    }
+  ]
+}

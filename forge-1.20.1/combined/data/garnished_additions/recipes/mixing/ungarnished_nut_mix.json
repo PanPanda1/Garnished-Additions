@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:ungarnished_cashew"
+    },
+    {
+      "item": "garnished:ungarnished_walnut"
+    },
+    {
+      "item": "garnished:ungarnished_almond"
+    },
+    {
+      "item": "garnished:ungarnished_pecan"
+    },
+    {
+      "item": "garnished:ungarnished_pistachio"
+    },
+    {
+      "item": "garnished:ungarnished_macadamia"
+    },
+    {
+      "item": "garnished:ungarnished_peanut"
+    },
+    {
+      "item": "garnished:ungarnished_hazelnut"
+    },
+    {
+      "item": "garnished:ungarnished_chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ungarnished_nut_mix"
+    }
+  ],
+  "heatRequirement": "heated"
+}

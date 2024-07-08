@@ -4,14 +4,11 @@ license="MIT Licence"
 
 [[mods]]
 modId="garnished_additions"
-version="0.3.94"
+version="0.5.0"
 displayName="Garnished Additions"
 displayURL="https://modrinth.com/mod/garnished-additions"
 credits=""
 authors="Panda"
-description='''
-Create: Garnished Addon that adds new armour, tools, recipes, and foods!
-'''
 
 [[dependencies.garnished_additions]]
     modId="minecraft"
@@ -19,4 +16,7 @@ Create: Garnished Addon that adds new armour, tools, recipes, and foods!
     versionRange="[1.20.1]"
     ordering="NONE"
     side="BOTH"
+
+
+
 

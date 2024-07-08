@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_leaf"
+    },
+    {
+      "item": "garnished_additions:ethereal_leaf"
+    },
+    {
+      "item": "garnished_additions:ethereal_roots"
+    },
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:ethereal_berries"
+    },
+    {
+      "item": "garnished:crushed_salt"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ethereal_salad"
+    }
+  ],
+  "heatRequirement": "none"
+}

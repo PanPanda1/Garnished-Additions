@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "garnished_additions:block/ethereal_planks",
+    "particle": "garnished_additions:block/ethereal_planks"
+  },
+  "render_type": "solid"
+}

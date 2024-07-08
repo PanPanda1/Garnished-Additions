@@ -1,0 +1,56 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished_additions:ethereal_growth"
+  },
+  "categories": [
+    "end_stone",
+    "rooted_end_stone"
+  ],
+  "growthTicks": 2400,
+  "display": {
+    "block": "garnished_additions:ethereal_growth_plant"
+  },
+  "drops": [
+    {
+      "chance": 0.25,
+      "output": {
+        "item": "garnished_additions:ethereal_growth"
+      },
+      "minRolls": 0,
+      "maxRolls": 2
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished_additions:ethereal_log"
+      },
+      "minRolls": 2,
+      "maxRolls": 4
+    },
+    {
+      "chance": 0.10,
+      "output": {
+        "item": "minecraft:stick"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    },
+    {
+      "chance": 0.1,
+      "output": {
+        "item": "garnished_additions:ethereal_fruit"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    },
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "garnished_additions:ethereal_roots"
+      },
+      "minRolls": 1,
+      "maxRolls": 1
+    }
+  ]
+}

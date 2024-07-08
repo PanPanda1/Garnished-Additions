@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "garnished:sepia_wart_block"
+  },
+  "display": {
+    "block": "garnished:sepia_wart_block"
+  },
+  "categories": [
+    "wart_blocks"
+  ],
+  "growthModifier": 1.25
+}
