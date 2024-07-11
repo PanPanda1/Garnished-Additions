@@ -2,9 +2,6 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "garnished:almond"
-    },
-    {
       "item": "minecraft:sweet_berries"
     },
     {
@@ -17,7 +14,7 @@
       "item": "minecraft:cocoa_beans"
     },
     {
-      "item": "garnished:macadamia"
+      "item": "garnished:hazelnut"
     },
     {
       "tag": "forge:flour"

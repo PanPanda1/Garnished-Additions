@@ -23,13 +23,12 @@
       "item": "garnished:chestnut"
     },
     {
-      "amount": 20250,
-      "fluidTag": "c:honey"
+      "amount": 250,
+      "fluid": "create:honey"
     },
     {
-      "amount": 40500,
-      "fluid": "milk:still_milk",
-      "nbt": {}
+      "amount": 500,
+      "fluid": "minecraft:milk"
     }
   ],
   "results": [

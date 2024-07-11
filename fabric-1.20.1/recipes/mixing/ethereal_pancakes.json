@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:milk"
+    },
+    {
+      "item": "garnished_additions:bottle_of_ethereal_syrup"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ethereal_pancakes"
+    }
+  ],
+  "heatRequirement": "heated"
+}

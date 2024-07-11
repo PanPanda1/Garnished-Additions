@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "garnished_additions:pancakes"
+      },
+      {
+        "amount": 250,
+        "fluid": "create:chocolate",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "garnished_additions:chocolate_covered_pancakes"
+      }
+    ]
+  }

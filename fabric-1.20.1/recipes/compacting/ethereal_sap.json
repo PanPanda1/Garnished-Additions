@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "none",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:ethereal_berries"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:bottle_of_ethereal_sap"
+    }
+  ]
+}

@@ -17,18 +17,14 @@
       "tag": "c:flour"
     },
     {
-      "tag": "c:dough"
-    },
-    {
-      "item": "minecraft:egg"
+      "tag": "c:eggs"
     },
     {
       "item": "minecraft:cocoa_beans"
     },
     {
-      "amount": 20250,
-      "fluid": "create:chocolate",
-      "nbt": {}
+      "amount": 250,
+      "fluid": "create:chocolate"
     }
   ],
   "results": [

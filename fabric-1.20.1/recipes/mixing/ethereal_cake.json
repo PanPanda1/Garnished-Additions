@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "garnished_additions:ethereal_berries"
+    },
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ethereal_cake"
+    }
+  ],
+  "heatRequirement": "heated"
+}

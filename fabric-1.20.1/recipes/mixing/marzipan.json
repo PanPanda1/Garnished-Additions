@@ -23,8 +23,8 @@
       "item": "garnished:crushed_salt"
     },
     {
-      "amount": 20250,
-      "fluidTag": "c:honey"
+      "amount": 250,
+      "fluid": "create:honey"
     }
   ],
   "results": [

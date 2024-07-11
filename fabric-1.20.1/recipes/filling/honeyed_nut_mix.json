@@ -5,8 +5,9 @@
         "item": "garnished_additions:garnished_nut_mix"
       },
       {
-        "amount": 81000,
-        "fluidTag": "c:honey"
+        "amount": 1000,
+        "fluid": "create:honey",
+        "nbt": {}
       }
     ],
     "results": [

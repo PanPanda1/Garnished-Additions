@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "garnished_additions:ethereal_roots"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:rooted_end_stone"
+    }
+  ]
+}

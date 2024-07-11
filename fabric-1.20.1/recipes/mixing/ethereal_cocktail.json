@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:bottle_of_ethereal_sap"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ethereal_cocktail"
+    }
+  ],
+  "heatRequirement": "none"
+}

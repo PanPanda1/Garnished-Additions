@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "amount": 250,  
+      "fluid": "garnished_additions:ethereal_syrup"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:bottle_of_ethereal_syrup"
+    }
+  ]
+}

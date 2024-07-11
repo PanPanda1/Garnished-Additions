@@ -27,8 +27,8 @@
       "tag": "c:flour"
     },
     {
-      "amount": 81000,
-      "fluid": "milk:still_milk"
+      "amount": 1000,
+      "fluid": "minecraft:milk"
     }
   ],
   "results": [
