@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "garnished_additions:block/stripped_ethereal_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "garnished_additions:block/stripped_ethereal_log"
+    },
+    "axis=z": {
+      "model": "garnished_additions:block/stripped_ethereal_log",
+      "x": 90
+    }
+  }
+}

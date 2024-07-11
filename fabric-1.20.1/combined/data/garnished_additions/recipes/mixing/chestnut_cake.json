@@ -17,7 +17,7 @@
       "item": "minecraft:sweet_berries"
     },
     {
-      "item": "minecraft:egg"
+      "tag": "c:eggs"
     },
     {
       "item": "garnished:chestnut"
@@ -27,13 +27,7 @@
     },
     {
       "amount": 20250,
-      "fluid": "milk:still_milk",
-      "nbt": {}
-    },
-    {
-      "amount": 20250,
-      "fluid": "create:chocolate",
-      "nbt": {}
+      "fluid": "milk:still_milk"
     }
   ],
   "results": [

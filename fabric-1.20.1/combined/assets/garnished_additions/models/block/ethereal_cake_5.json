@@ -1,0 +1,12 @@
+{
+  "parent": "garnished_additions:custom/etherealdelight6",
+  "textures": {
+    "all": "garnished_additions:block/ethereal_delight_side",
+    "particle": "garnished_additions:block/ethereal_delight_side",
+    "0": "garnished_additions:block/ethereal_delight_side",
+    "1": "garnished_additions:block/ethereal_delight_inner",
+    "2": "garnished_additions:block/ethereal_delight_top",
+    "3": "garnished_additions:block/ethereal_delight_bottom"
+  },
+  "render_type": "cutout"
+}

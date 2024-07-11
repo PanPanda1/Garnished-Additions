@@ -24,12 +24,11 @@
     },
     {
       "amount": 20250,
-      "fluidTag": "c:honey"
+      "fluid": "create:honey"
     },
     {
       "amount": 40500,
-      "fluid": "milk:still_milk",
-      "nbt": {}
+      "fluid": "milk:still_milk"
     }
   ],
   "results": [

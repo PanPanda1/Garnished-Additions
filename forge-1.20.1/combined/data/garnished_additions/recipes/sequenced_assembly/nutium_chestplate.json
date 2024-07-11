@@ -33,7 +33,7 @@
           "item": "garnished_additions:incomplete_nutium_chestplate"
         },
         {
-          "amount": 250,
+          "amount": 500,
           "fluid": "minecraft:lava",
           "nbt": {}
         }

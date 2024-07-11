@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_cake"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:slice_of_ethereal_delight",
+    "count": 4
+  }
+}

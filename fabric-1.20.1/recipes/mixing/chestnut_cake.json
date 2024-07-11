@@ -26,8 +26,8 @@
       "item": "garnished:chestnut"
     },
     {
-      "amount": 250,
-      "fluid": "minecraft:milk"
+      "amount": 20250,
+      "fluid": "milk:still_milk"
     }
   ],
   "results": [

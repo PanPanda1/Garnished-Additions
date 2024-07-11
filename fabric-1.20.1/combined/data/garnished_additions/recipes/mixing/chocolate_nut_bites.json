@@ -2,12 +2,6 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "garnished:almond"
-    },
-    {
-      "item": "minecraft:sweet_berries"
-    },
-    {
       "item": "minecraft:sweet_berries"
     },
     {
@@ -17,7 +11,7 @@
       "item": "minecraft:cocoa_beans"
     },
     {
-      "item": "garnished:macadamia"
+      "item": "garnished:hazelnut"
     },
     {
       "tag": "c:flour"
@@ -27,8 +21,7 @@
     },
     {
       "amount": 20250,
-      "fluid": "create:chocolate",
-      "nbt": {}
+      "fluid": "create:chocolate"
     }
   ],
   "results": [

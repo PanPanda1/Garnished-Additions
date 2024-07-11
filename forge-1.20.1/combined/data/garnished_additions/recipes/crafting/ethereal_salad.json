@@ -20,7 +20,9 @@
       "item": "garnished:crushed_salt"
     }
   ],
-  "results": {
+  "results": [
+    {
       "item": "garnished_additions:ethereal_salad"
-  }
+    }
+  ]
 }

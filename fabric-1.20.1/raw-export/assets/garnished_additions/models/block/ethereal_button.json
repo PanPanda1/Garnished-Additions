@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "garnished_additions:block/ethereal_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "garnished_additions:block/ethereal_slab"
+    },
+    "type=top": {
+      "model": "garnished_additions:block/ethereal_slab_top"
+    },
+    "type=double": {
+      "model": "garnished_additions:block/ethereal_slab_full"
+    }
+  }
+}

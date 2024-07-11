@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_planks"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:ethereal_button",
+    "count": 1
+  }
+}

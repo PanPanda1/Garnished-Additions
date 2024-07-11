@@ -1,4 +1,17 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "garnished_additions:ethereal_log",
+    "garnished_additions:ethereal_wood",
+    "garnished_additions:stripped_ethereal_log",
+    "garnished_additions:stripped_ethereal_wood",
+    "garnished_additions:ethereal_planks",
+    "garnished_additions:ethereal_stairs",
+    "garnished_additions:ethereal_slab",
+    "garnished_additions:ethereal_fence",
+    "garnished_additions:ethereal_fence_gate",
+    "garnished_additions:ethereal_pressure_plate",
+    "garnished_additions:ethereal_button",
+    "garnished_additions:ethereal_leaves"
+  ]
 }

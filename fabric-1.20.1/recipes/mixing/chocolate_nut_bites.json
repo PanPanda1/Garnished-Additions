@@ -8,9 +8,6 @@
       "item": "minecraft:sweet_berries"
     },
     {
-      "item": "minecraft:sweet_berries"
-    },
-    {
       "item": "minecraft:cocoa_beans"
     },
     {
@@ -23,7 +20,7 @@
       "tag": "c:flour"
     },
     {
-      "amount": 250,
+      "amount": 20250,
       "fluid": "create:chocolate"
     }
   ],

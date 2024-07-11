@@ -3,7 +3,8 @@
   "ingredients": [
     {
       "fluid": "minecraft:water",
-      "amount": 1000
+      "nbt": {},
+      "amount": 81000
     },
     {
       "item": "garnished:garnish_compound"

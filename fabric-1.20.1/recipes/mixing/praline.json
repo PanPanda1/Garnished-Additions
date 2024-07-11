@@ -17,12 +17,12 @@
       "item": "garnished:garnish_powder"
     },
     {
-      "amount": 250,
+      "amount": 20250,
       "fluid": "create:honey"
     },
     {
-      "amount": 250,
-      "fluid": "minecraft:milk"
+      "amount": 20250,
+      "fluid": "milk:still_milk"
     }
   ],
   "results": [

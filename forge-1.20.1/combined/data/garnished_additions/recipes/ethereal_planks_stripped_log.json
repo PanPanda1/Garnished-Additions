@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "garnished_additions:stripped_ethereal_log"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:ethereal_planks",
+    "count": 4
+  }
+}

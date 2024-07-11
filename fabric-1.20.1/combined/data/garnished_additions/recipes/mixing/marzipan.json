@@ -24,7 +24,7 @@
     },
     {
       "amount": 20250,
-      "fluidTag": "c:honey"
+      "fluid": "create:honey"
     }
   ],
   "results": [

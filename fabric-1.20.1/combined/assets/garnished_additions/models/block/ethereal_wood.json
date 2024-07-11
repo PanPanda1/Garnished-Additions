@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "garnished_additions:block/ethereal_log",
+    "particle": "garnished_additions:block/ethereal_log"
+  },
+  "render_type": "solid"
+}

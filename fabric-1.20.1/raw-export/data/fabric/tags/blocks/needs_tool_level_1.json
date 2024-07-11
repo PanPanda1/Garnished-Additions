@@ -1,4 +1,19 @@
 {
   "replace": false,
-  "values": []
+  "values": [
+    "garnished_additions:ethereal_door",
+    "garnished_additions:ethereal_trapdoor",
+    "garnished_additions:rooted_end_stone",
+    "garnished_additions:ethereal_cake",
+    "garnished_additions:ethereal_bush_stage_0",
+    "garnished_additions:ethereal_bush_stage_1",
+    "garnished_additions:ethereal_bush_stage_2",
+    "garnished_additions:ethereal_bush_stage_3",
+    "garnished_additions:ethereal_cake_1",
+    "garnished_additions:ethereal_cake_2",
+    "garnished_additions:ethereal_cake_3",
+    "garnished_additions:ethereal_cake_4",
+    "garnished_additions:ethereal_cake_5",
+    "garnished_additions:ethereal_cake_6"
+  ]
 }

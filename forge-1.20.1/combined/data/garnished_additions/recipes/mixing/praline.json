@@ -29,10 +29,8 @@
   ],
   "results": [
     {
-      "item": "garnished_additions:praline"
-    },
-    {
-      "item": "garnished_additions:praline"
+      "item": "garnished_additions:praline",
+      "count": 2
     }
   ],
   "heatRequirement": "heated"
