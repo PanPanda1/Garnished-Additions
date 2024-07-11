@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "ethereal_delight_side",
+		"2": "ethereal_delight_top",
+		"3": "ethereal_delight_bottom",
+		"particle": "ethereal_delight_side"
+	},
+	"elements": [
+		{
+			"name": "EtherealDelight1",
+			"from": [1, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 7, 15, 15], "texture": "#0"},
+				"east": {"uv": [1, 7, 15, 15], "texture": "#0"},
+				"south": {"uv": [1, 7, 15, 15], "texture": "#0"},
+				"west": {"uv": [1, 7, 15, 15], "texture": "#0"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#2"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#3"}
+			}
+		}
+	]
+}
