@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "garnished:walnut"
+    },
+    {
+      "item": "garnished:crushed_salt"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:salted_walnut"
+    }
+  ]
+}

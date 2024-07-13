@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "garnished:cashew"
+  },
+  "result": "garnished_additions:roasted_cashew",
+  "experience": 0.4,
+  "cookingtime": 600
+}

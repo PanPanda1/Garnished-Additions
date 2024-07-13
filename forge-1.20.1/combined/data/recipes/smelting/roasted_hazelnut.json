@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "garnished:hazelnut"
+  },
+  "result": "garnished_additions:roasted_hazelnut",
+  "experience": 0.4,
+  "cookingtime": 200
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item" : "minecraft:cooked_beef"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "garnished:chestnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:frittelle"
+    }
+  ],
+  "heatRequirement": "heated"
+}

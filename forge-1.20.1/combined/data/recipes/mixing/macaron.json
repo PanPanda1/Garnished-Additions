@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "garnished:garnish_powder"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:eggs"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:macaron"
+    }
+  ],
+  "heatRequirement": "heated"
+}

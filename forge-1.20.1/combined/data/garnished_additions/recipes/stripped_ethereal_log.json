@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_log"
+    }
+  ],
+  "processingTime": 50,
+  "results": [
+    {
+      "item": "garnished_additions:stripped_ethereal_log"
+    }
+  ]
+}

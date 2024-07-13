@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "garnished:walnut"
+    },
+    {
+      "item": "garnished:walnut"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:walnut_pie"
+    }
+  ],
+  "heatRequirement": "heated"
+}
