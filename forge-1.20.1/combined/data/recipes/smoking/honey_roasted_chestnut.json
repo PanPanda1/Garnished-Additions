@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smoking",
-  "ingredient": {
-    "item": "garnished:honeyed_chestnut"
-  },
-  "result": "garnished_additions:honey_roasted_chestnut",
-  "experience": 0.4,
-  "cookingtime": 100
-}

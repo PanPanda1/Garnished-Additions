@@ -29,9 +29,7 @@
       "item": "garnished:chocolate_glazed_chestnut"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:chocolate_nut_mix"
-    }
-  ]
+  }
 }

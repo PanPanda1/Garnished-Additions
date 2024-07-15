@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "ingredient": {
-    "item": "garnished:pistachio"
-  },
-  "result": "garnished_additions:roasted_pistachio",
-  "experience": 0.4,
-  "cookingtime": 600
-}

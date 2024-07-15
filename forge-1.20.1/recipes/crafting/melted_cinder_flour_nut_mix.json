@@ -29,9 +29,7 @@
       "item": "garnished:cinder_chestnut_slow_falling"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:melted_cinder_flour_nut_mix"
-    }
-  ]
+  }
 }

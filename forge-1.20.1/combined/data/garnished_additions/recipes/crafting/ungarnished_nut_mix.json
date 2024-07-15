@@ -29,9 +29,7 @@
       "item": "garnished:ungarnished_chestnut"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:ungarnished_nut_mix"
-    }
-  ]
+  }
 }

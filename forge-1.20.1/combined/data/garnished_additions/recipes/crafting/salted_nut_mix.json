@@ -29,9 +29,7 @@
       "item": "garnished_additions:salted_chestnut"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:salted_nut_mix"
-    }
-  ]
+  }
 }

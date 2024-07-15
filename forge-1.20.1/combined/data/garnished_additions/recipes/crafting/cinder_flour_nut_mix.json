@@ -29,9 +29,7 @@
       "item": "garnished:cinder_chestnut"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:cinder_flour_nut_mix"
-    }
-  ]
+  }
 }

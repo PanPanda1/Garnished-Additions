@@ -29,9 +29,7 @@
       "item": "garnished_additions:honey_roasted_chestnut"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:honey_roasted_nut_mix"
-    }
-  ]
+  }
 }

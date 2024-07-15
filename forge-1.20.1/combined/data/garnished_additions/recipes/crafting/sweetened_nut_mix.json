@@ -29,9 +29,7 @@
       "item": "garnished:sweetened_chestnut"
     }
   ],
-  "results": [
-    {
+  "result": {
       "item": "garnished_additions:sweetened_nut_mix"
-    }
-  ]
+  }
 }
