@@ -1,0 +1,441 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "garnished_additions:chestnut_cake"
+    },
+    "title": "A True Connoisseur",
+    "description": "Try Every Food In Garnished Additions!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "frittelle": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:frittelle"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "bakewell_tart": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:bakewell_tart"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "biscotti": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:biscotti"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "macaron": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:macaron"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "pemmican": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:pemmican"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "chestnut_pie": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:chestnut_pie"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "cashew_pie": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:cashew_pie"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "walnut_pie": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:walnut_pie"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "walnut_loaf": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:walnut_loaf"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "malsouka": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:malsouka"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "mince_pie": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:mince_pie"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "dumplings": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:dumplings"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "yam_puffs": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:yam_puffs"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "marzipan": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:marzipan"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "praline": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:praline"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "chestnut_cake": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:chestnut_cake"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "chestnut_pancake": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:chestnut_pancake"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "derby_pie": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:derby_pie"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "chocolate_nut_bites": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:chocolate_nut_bites"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_cashew": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_cashew"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_almond": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_almond"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_walnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_walnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_pecan": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_pecan"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_pistachio": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_pistachio"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_macadamia": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_macadamia"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_peanut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_peanut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_hazelnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_hazelnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "salted_chestnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:salted_chestnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "pound_cake_slice": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:pound_cake_slice"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "chestnut_cake_slice": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:chestnut_cake_slice"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "chestnut_pie_slice": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:chestnut_pie_slice"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "cashew_pie_slice": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:cashew_pie_slice"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "walnut_pie_slice": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:walnut_pie_slice"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "derby_pie_slice": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:derby_pie_slice"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_cashew": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_cashew"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_almond": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_almond"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_walnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_walnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_pecan": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_pecan"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_pistachio": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_pistachio"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_macadamia": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_macadamia"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_peanut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_peanut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_hazelnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_hazelnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "honey_roasted_chestnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:honey_roasted_chestnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_cashew": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_cashew"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_almond": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_almond"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_walnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_walnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_pecan": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_pecan"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_pistachio": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_pistachio"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_macadamia": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_macadamia"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_peanut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_peanut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_hazelnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_hazelnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "roasted_chestnut": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:roasted_chestnut"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "pound_cake": {
+      "conditions": {
+        "item": {
+          "items": ["garnished_additions:pound_cake"]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "parent": "garnished_additions:a_true_super_food"
+}
