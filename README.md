@@ -10,7 +10,7 @@
         alt="Available on Forge"
         width="200">
     <br>
-<a href="https://www.curseforge.com/minecraft/mc-mods/garnished-additions"><img src="https://cf.way2muchnoise.eu/short_1048415.svg" alt="CF"></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/garnished-additions"><img src="https://cf.way2muchnoise.eu/1048415.svg" alt="CF"></a>
 <a href="https://modrinth.com/mod/garnished-additions"><img src="https://img.shields.io/modrinth/dt/garnished-additions?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a></a>
 </h1> <br>
 
