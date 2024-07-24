@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "tag": "minecraft:ethereal_logs"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:ethereal_planks",
+    "count": 4
+  }
+}

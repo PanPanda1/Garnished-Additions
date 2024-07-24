@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "garnished_additions:block/ethereal_bush_stage3",
-    "particle": "garnished_additions:block/ethereal_bush_stage3"
-  },
-  "render_type": "cutout"
-}

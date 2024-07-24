@@ -9,7 +9,7 @@
   ],
   "growthTicks": 2400,
   "display": {
-    "block": "garnished_additions:ethereal_growth_plant"
+    "block": "garnished_additions:ethereal_growth"
   },
   "drops": [
     {

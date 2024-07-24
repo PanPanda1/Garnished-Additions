@@ -1,9 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": [
-    "end_highlands",
-    "end_midlands"
-  ],
-  "features": "garnished_additions:ethereal_bush_plant",
-  "step": "vegetal_decoration"
-}
