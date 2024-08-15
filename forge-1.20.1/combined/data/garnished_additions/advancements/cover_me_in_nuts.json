@@ -1,63 +1,43 @@
 {
-  "display": {
-    "icon": {
-      "item": "garnished_additions:nutium_helmet"
+    "display": {
+      "icon": {
+        "item": "garnished_additions:nutium_helmet"
+      },
+      "title": "Cover Me In Nuts!",
+      "description": "Equip yourself with full Nutium Armour",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
     },
-    "title": {
-      "translate": "advancements.cover_me_in_nuts.title"
-    },
-    "description": {
-      "translate": "advancements.cover_me_in_nuts.descr"
-    },
-    "frame": "challenge",
-    "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
-  },
-  "criteria": {
-    "this_is_nuts": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": [
-              "garnished_additions:nutium_helmet"
-            ],
-            "count": {
-              "min": 1,
-              "max": 64
+    "criteria": {
+      "this_is_nuts": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "garnished_additions:nutium_helmet"
+              ]
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_chestplate"
+              ]
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_leggings"
+              ]
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_boots"
+              ]
             }
-          },
-          {
-            "items": [
-              "garnished_additions:nutium_chestplate"
-            ],
-            "count": {
-              "min": 1,
-              "max": 64
-            }
-          },
-          {
-            "items": [
-              "garnished_additions:nutium_leggings"
-            ],
-            "count": {
-              "min": 1,
-              "max": 64
-            }
-          },
-          {
-            "items": [
-              "garnished_additions:nutium_boots"
-            ],
-            "count": {
-              "min": 1,
-              "max": 64
-            }
-          }
-        ]
+          ]
+        }
       }
-    }
-  },
-  "parent": "garnished_additions:a_true_super_food"
-}
+    },
+  "parent": "garnished_additions:this_is_nuts"
+  }

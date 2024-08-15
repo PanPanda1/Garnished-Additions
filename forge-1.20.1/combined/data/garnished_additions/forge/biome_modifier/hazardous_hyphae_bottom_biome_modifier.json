@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "soul_sand_valley",
+  "features": "garnished_additions:hazardous_hyphae_bottom",
+  "step": "vegetal_decoration"
+}

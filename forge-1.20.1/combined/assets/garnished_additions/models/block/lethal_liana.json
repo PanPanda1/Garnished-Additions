@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "garnished_additions:block/lethal_lianas_plant",
+    "particle": "garnished_additions:block/lethal_lianas_plant"
+  },
+  "render_type": "cutout"
+}

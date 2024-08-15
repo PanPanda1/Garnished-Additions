@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:ghast_tendril"
+    },
+    {
+      "item": "garnished:ghast_tendril"
+    },
+    {
+      "item": "garnished_additions:spice_powder"
+    },
+    {
+      "amount": 40500,
+      "fluid": "garnished:peanut_oil"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:cursed_calamari"
+    },
+    {
+      "amount": 40500,
+      "fluid": "garnished:peanut_oil"
+    }
+  ],
+  "heatRequirement": "heated"
+}

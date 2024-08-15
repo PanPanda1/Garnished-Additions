@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "garnished_additions:hazardous_hyphae_bottom"
+  },
+  "categories": [
+    "soul_sand"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "garnished_additions:hazardous_hyphae"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "garnished_additions:hazardous_hyphae_bottom"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    }
+  ]
+}
