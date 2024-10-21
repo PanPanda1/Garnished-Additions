@@ -1,6 +1,7 @@
 {
   "parent": "block/stairs",
   "textures": {
+    "particle": "garnished_additions:block/ethereal_planks",
     "bottom": "garnished_additions:block/ethereal_planks",
     "top": "garnished_additions:block/ethereal_planks",
     "side": "garnished_additions:block/ethereal_planks"

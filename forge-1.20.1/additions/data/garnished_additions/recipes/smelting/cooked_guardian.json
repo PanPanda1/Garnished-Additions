@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "garnished_additions:raw_guardian"
+  },
+  "result": "garnished_additions:cooked_guardian",
+  "experience": 1,
+  "cookingtime": 200
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "garnished:salt_compound"
+    },
+    {
+      "item": "garnished:garnish_compound"
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:water",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:black_pudding"
+    }
+  ],
+  "heatRequirement": "heated"
+}

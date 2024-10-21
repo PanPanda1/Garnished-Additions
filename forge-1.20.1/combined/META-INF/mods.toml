@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="garnished_additions"
-version="0.6.0"
+version="0.6.1"
 displayName="Garnished Additions"
 displayURL="https://modrinth.com/mod/garnished-additions"
 logoFile="logo.png"

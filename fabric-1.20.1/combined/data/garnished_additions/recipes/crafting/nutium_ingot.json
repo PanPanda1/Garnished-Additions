@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished_additions:nutium_block"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:nutium_ingot",
+    "count": 9
+  }
+}

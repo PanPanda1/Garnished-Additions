@@ -1,6 +1,7 @@
 {
   "parent": "block/door_top_right_open",
   "textures": {
+    "particle": "garnished_additions:block/ethereal_door_bottom",
     "bottom": "garnished_additions:block/ethereal_door_bottom",
     "top": "garnished_additions:block/ethereal_door_top"
   },

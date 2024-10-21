@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "garnished:macadamia"
-  },
-  "result": "garnished_additions:roasted_macadamia",
-  "experience": 0.4,
-  "cookingtime": 200
-}

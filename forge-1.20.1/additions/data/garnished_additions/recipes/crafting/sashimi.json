@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished:garnish_powder"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:raw_salmon"
+    },
+    {
+      "item": "minecraft:raw_salmon"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:sashimi"
+  }
+}

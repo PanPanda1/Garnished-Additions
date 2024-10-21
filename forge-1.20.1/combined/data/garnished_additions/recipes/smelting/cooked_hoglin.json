@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "garnished_additions:hoglin_meat"
-  },
-  "result": "garnished_additions:cooked_hoglin",
-  "experience": 1,
-  "cookingtime": 200
-}

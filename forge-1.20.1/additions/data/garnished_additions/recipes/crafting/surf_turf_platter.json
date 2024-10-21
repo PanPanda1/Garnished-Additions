@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:cooked_salmon"
+    },
+    {
+      "item": "garnished_additions:cooked_squid"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:cashew_pie_slice"
+  }
+}
