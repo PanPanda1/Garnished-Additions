@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "create:shadow_steel"
+    },
+    "title": "The Dark Side",
+    "description": "Obtain your first Shadow Steel",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "this_is_nuts": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:shadow_steel"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+"parent": "garnished_additions:now_this_is_a_throwback"
+}

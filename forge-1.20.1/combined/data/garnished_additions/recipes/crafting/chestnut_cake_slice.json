@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished_additions:chestnut_cake"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:chestnut_cake_slice",
+    "count": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "item": "garnished:almond"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:biscotti"
+    }
+  ],
+  "heatRequirement": "heated"
+}

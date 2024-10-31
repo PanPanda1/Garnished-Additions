@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "garnished_additions:unholy_buffet"
+    },
+    "title": "Is This A Mistake?",
+    "description": "Your hubris is astounding (Craft the Unholy Buffet)",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "is_this_a_mistake": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "garnished_additions:unholy_buffet"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "garnished_additions:a_true_super_food"
+}

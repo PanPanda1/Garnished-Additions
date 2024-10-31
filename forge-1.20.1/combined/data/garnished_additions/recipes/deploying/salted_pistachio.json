@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "garnished:pistachio"
+    },
+    {
+      "item": "garnished:crushed_salt"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:salted_pistachio"
+    }
+  ]
+}

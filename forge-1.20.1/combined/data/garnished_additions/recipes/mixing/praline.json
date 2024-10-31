@@ -1,0 +1,37 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "item": "garnished:garnish_powder"
+    },
+    {
+      "amount": 250,
+      "fluid": "create:honey",
+      "nbt": {}
+    },
+    {
+      "amount": 250,
+      "fluid": "minecraft:milk",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:praline",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}

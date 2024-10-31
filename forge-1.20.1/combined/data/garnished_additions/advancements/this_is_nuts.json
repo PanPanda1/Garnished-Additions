@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "garnished_additions:nutium_ingot"
+    },
+    "title": "This Is Nuts!",
+    "description": "Obtain your first Nutium Ingot",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "this_is_nuts": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "garnished_additions:nutium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "garnished_additions:a_true_super_food"
+}

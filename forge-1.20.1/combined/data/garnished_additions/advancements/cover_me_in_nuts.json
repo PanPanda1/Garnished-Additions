@@ -1,0 +1,43 @@
+{
+    "display": {
+      "icon": {
+        "item": "garnished_additions:nutium_helmet"
+      },
+      "title": "Cover Me In Nuts!",
+      "description": "Equip yourself with full Nutium Armour",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "this_is_nuts": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "garnished_additions:nutium_helmet"
+              ]
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_chestplate"
+              ]
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_leggings"
+              ]
+            },
+            {
+              "items": [
+                "garnished_additions:nutium_boots"
+              ]
+            }
+          ]
+        }
+      }
+    },
+  "parent": "garnished_additions:this_is_nuts"
+  }

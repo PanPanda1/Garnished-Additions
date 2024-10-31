@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished:vermilion_kelp"
+    },
+    {
+      "item": "garnished:dulse_kelp"
+    },
+    {
+      "item": "garnished:voltaic_sea_grass"
+    },
+    {
+      "item": "garnished:salt_compound"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "garnished:berries"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:seafood_salad"
+  }
+}

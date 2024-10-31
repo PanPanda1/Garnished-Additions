@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "garnished_additions:rooted_end_stone"
+  },
+  "display": {
+    "block": "garnished_additions:rooted_end_stone"
+  },
+  "categories": [
+    "rooted_end_stone"
+  ],
+  "growthModifier": 1.25
+}

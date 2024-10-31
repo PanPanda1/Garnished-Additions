@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished_additions:salted_cashew"
+    },
+    {
+      "item": "garnished_additions:salted_walnut"
+    },
+    {
+      "item": "garnished_additions:salted_almond"
+    },
+    {
+      "item": "garnished_additions:salted_pecan"
+    },
+    {
+      "item": "garnished_additions:salted_pistachio"
+    },
+    {
+      "item": "garnished_additions:salted_macadamia"
+    },
+    {
+      "item": "garnished_additions:salted_peanut"
+    },
+    {
+      "item": "garnished_additions:salted_hazelnut"
+    },
+    {
+      "item": "garnished_additions:salted_chestnut"
+    }
+  ],
+  "result": {
+      "item": "garnished_additions:salted_nut_mix"
+  }
+}

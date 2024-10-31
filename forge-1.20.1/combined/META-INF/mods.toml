@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="garnished_additions"
-version="0.6.1"
+version="0.6.0"
 displayName="Garnished Additions"
 displayURL="https://modrinth.com/mod/garnished-additions"
 logoFile="logo.png"
@@ -12,18 +12,18 @@ credits="Panda"
 authors="Panda"
 description="Garnished Additions is an addon mod to Create: Garnished that will soon add over 100 new edible foods and a host of other items to the game! [WIP]"
 
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
 [[dependencies.garnished_additions]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"
-    ordering="NONE"
-    side="BOTH"
-
-[[dependencies.garnished_additions]]
-    modId="garnished"
-    mandatory=true
-    versionRange="1.x"
     ordering="AFTER"
     side="BOTH"
 
 
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:spice_compound"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 1,
+      "item": "garnished_additions:spice_powder"
+    },
+    {
+      "chance": 0.5,
+      "item": "garnished_additions:spice_powder",
+      "count": 1
+    }
+  ]
+}

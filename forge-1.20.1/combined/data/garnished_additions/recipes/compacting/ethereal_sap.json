@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "heatRequirement": "none",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:ethereal_fruit"
+    },
+    {
+      "item": "garnished_additions:ethereal_berries"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "fluid": "garnished_additions:ethereal_sap"
+    }
+  ]
+}

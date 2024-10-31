@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "create:refined_radiance"
+    },
+    "title": "Let There Be Light",
+    "description": "Obtain your first Refined Radiance",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "this_is_nuts": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "create:refined_radiance"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+"parent": "garnished_additions:now_this_is_a_throwback"
+}

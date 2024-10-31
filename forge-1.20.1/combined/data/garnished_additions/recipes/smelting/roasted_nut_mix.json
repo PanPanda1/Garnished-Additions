@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "garnished_additions:ungarnished_nut_mix"
+  },
+  "result": "garnished_additions:roasted_nut_mix",
+  "experience": 1,
+  "cookingtime": 200
+}

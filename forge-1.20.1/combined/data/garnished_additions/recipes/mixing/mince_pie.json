@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "item": "minecraft:mutton"
+    },
+    {
+      "tag": "garnished:ungarnished_nuts"
+    },
+    {
+      "tag": "garnished:ungarnished_nuts"
+    },
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "garnished:cashew_fruit"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:mince_pie"
+    }
+  ],
+  "heatRequirement": "heated"
+}

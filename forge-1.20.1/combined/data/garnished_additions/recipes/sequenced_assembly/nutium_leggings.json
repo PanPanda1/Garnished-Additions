@@ -1,0 +1,77 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "netherite_leggings"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "garnished_additions:nutium_leggings"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        },
+        {
+          "item": "garnished_additions:nutium_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_nutium_leggings"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "garnished_additions:incomplete_nutium_leggings"
+  }
+}

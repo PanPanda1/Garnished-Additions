@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ethereal_leaf"
+    },
+    {
+      "item": "garnished:garnish_compound"
+    },
+    {
+      "amount": 250,
+      "fluid": "garnished_additions:ethereal_sap",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "fluid": "garnished_additions:ethereal_syrup"
+    }
+  ],
+  "heatRequirement": "heated"
+}

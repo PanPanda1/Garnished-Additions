@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished_additions:elder_guardian_fin_soup"
+    },
+    {
+      "item": "garnished_additions:danger_noodles"
+    },
+    {
+      "item": "garnished_additions:melted_cinder_flour_nut_mix"
+    }
+  ],
+  "result": {
+    "item": "garnished_additions:unholy_buffet"
+  }
+}

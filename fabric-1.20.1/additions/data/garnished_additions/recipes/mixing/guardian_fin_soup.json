@@ -1,0 +1,40 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:spice_compound"
+    },
+    {
+      "item": "garnished:garnish_compound"
+    },
+    {
+      "item": "garnished:cracked_chestnut"
+    },
+    {
+      "item": "garnished_additions:guardian_fin"
+    },
+    {
+      "item": "garnished_additions:guardian_fin"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "amount": 40500,
+      "fluid": "minecraft:water",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:guardian_fin_soup"
+    }
+  ],
+  "heatRequirement": "heated"
+}

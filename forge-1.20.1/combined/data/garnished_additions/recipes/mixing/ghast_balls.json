@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished:ghast_tendril"
+    },
+    {
+      "item": "garnished:ghast_tendril"
+    },
+    {
+      "item": "garnished:ghast_tendril"
+    },
+    {
+      "item": "garnished_additions:spice_powder"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ghast_balls"
+    }
+  ],
+  "heatRequirement": "heated"
+}
