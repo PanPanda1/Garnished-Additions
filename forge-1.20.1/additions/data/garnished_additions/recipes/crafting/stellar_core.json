@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#c#",
+        "cic",
+        "#c#"
+    ],
+    "key": {
+        "#": {
+            "item": "garnished_additions:stardust"
+        },
+        "c": {
+            "item": "create:chromatic_compound"
+        },
+        "i": {
+            "item": "garnished_additions:nutium_ingot"
+        }
+    },
+    "result": {
+        "item": "garnished_additions:stellar_core",
+        "count": 4
+    }
+}

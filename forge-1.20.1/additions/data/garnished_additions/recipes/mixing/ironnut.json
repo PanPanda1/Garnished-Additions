@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:iron_nugget"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      },
+      {
+        "item": "minecraft:iron_nugget"
+      },
+      {
+        "tag": "forge:nuts"
+      }
+    ],
+    "results": [
+      {
+        "item": "garnished_additions:ironnut"
+      }
+    ],
+    "heatRequirement": "heated"
+  }

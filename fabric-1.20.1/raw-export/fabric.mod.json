@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "garnished_additions",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "name": "Garnished Additions",
   "description": "Garnished Additions is an addon mod to Create: Garnished that will soon add over 100 new edible foods and a host of other items to the game! [WIP]",
   "authors": [
@@ -27,7 +27,8 @@
     "fabricloader": ">=0.14.21",
     "fabric": "*",
     "minecraft": "~1.20",
-    "java": ">=17"
+    "java": ">=17",
+    "garnished": ">=2.0.0"
   },
   "mixins": [
     "garnished_additions.mixins.json"

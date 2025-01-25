@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "garnished_additions:bottle_of_ethereal_syrup"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ethereal_essence",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}

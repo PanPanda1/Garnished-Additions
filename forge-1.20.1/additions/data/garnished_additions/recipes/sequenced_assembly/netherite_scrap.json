@@ -1,0 +1,93 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "quartz"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        },
+        {
+          "item": "create:cinder_flour"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        },
+        {
+          "item": "garnished_additions:stardust"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        },
+        {
+          "amount": 500,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ],
+      "results": [
+        {
+          "item": "garnished_additions:incomplete_netherite_scrap"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "garnished_additions:incomplete_netherite_scrap"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ribs"
+    },
+    {
+      "item": "garnished_additions:spice_compound"
+    },
+    {
+      "item": "garnished:garnish_powder"
+    },
+    {
+      "item": "garnished:crushed_salt"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:seasoned_ribs"
+    }
+  ],
+  "heatRequirement": "none"
+}

@@ -39,7 +39,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "garnished_additions:hoglin_meat",
+          "name": "garnished_additions:raw_hoglin",
           "functions": [
             {
               "function": "minecraft:set_count",

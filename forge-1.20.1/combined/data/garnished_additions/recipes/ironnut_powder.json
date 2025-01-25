@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "garnished_additions:ironnut"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 2,
+      "item": "garnished_additions:ironnut_powder"
+    }
+  ]
+}

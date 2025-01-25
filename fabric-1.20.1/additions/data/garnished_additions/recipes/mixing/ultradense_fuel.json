@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:biofuel"
+    },
+    {
+      "item": "garnished_additions:biofuel"
+    },
+    {
+      "item": "garnished_additions:stardust"
+    },
+    {
+      "amount": 40500,
+      "fluid": "garnished:peanut_oil",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:ultradense_fuel",
+      "count": 4
+    }
+  ],
+  "heatRequirement": "superheated"
+}

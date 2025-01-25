@@ -2,7 +2,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "garnished_additions:piglin_meat"
+      "item": "garnished_additions:raw_piglin"
     },
     {
       "item": "garnished:garnish_powder"

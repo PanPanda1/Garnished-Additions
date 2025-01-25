@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "garnished_additions:strider_meat",
+          "name": "garnished_additions:raw_strider",
           "functions": [
             {
               "function": "minecraft:set_count",

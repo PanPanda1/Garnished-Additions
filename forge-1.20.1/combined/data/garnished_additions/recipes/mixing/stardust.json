@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:stardust"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "create:refined_radiance"
+    }
+  ],
+  "results": [
+    {
+      "chance": 1,
+      "item": "garnished_additions:stardust"
+    },
+    {
+      "chance": 0.5,
+      "item": "garnished_additions:stardust"
+    }
+  ],
+  "heatRequirement": "heated"
+}

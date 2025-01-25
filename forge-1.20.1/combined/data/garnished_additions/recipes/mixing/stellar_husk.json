@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "garnished:cracked_nuts"
+    },
+    {
+      "item": "garnished_additions:stardust"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:stellar_husk"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

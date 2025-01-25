@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+      "item": "garnished_additions:biochar"
+    }
+  }

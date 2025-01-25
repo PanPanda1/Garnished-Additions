@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "garnished_additions:ironnut_powder"
+    }
+  ],
+  "results": [
+    {
+      "chance": 1,
+      "item": "create:zinc_ingot"
+    },
+    {
+      "chance": 0.5,
+      "item": "create:zinc_ingot"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "item": "garnished_additions:ironnut_powder"
+    }
+  ],
+  "results": [
+    {
+      "chance": 1,
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "heatRequirement": "heated"
+}

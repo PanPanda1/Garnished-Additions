@@ -5,7 +5,7 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "garnished_additions:piglin_meat",
+            "name": "garnished_additions:raw_piglin",
             "functions": [
               {
                 "function": "minecraft:set_count",

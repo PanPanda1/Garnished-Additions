@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "count": 32,
+      "item": "garnished_additions:stardust"
+    }
+  ]
+}

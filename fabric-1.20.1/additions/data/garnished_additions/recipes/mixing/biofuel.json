@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "garnished_additions:nut_powder"
+    },
+    {
+      "item": "garnished:mulch"
+    },
+    {
+      "item": "garnished:mulch"
+    },
+    {
+      "item": "garnished:mulch"
+    },
+    {
+      "item": "garnished_additions:bottle_of_ethereal_sap"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:biofuel"
+    }
+  ],
+  "heatRequirement": "heated"
+}

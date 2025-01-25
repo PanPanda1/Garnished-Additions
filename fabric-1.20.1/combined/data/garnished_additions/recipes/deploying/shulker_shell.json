@@ -1,0 +1,16 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {
+        "item": "garnished_additions:stellar_husk"
+      },
+      {
+        "item": "garnished_additions:bottle_of_ethereal_sap"
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:shulker_shell"
+      }
+    ]
+  }

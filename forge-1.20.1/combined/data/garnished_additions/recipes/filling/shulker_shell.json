@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "garnished_additions:stellar_husk"
+      },
+      {
+        "amount": 250,
+        "fluid": "garnished_additions:ethereal_sap",
+        "nbt": {}
+      }
+    ],
+    "results": [
+      {
+        "item": "minecraft:shulker_shell"
+      }
+    ]
+  }

@@ -4,7 +4,7 @@ license="MIT License"
 
 [[mods]]
 modId="garnished_additions"
-version="0.6.0"
+version="0.8.0"
 displayName="Garnished Additions"
 displayURL="https://modrinth.com/mod/garnished-additions"
 logoFile="logo.png"
@@ -22,6 +22,12 @@ description="Garnished Additions is an addon mod to Create: Garnished that will 
     ordering="AFTER"
     side="BOTH"
 
+[[dependencies.garnished_additions]]
+    modId="garnished"
+    mandatory=true
+    versionRange="[2.0.0,)"
+    ordering="NONE"
+    side="BOTH"
 
 
 

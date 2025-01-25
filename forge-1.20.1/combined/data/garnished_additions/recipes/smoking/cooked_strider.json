@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smoking",
   "ingredient": {
-    "item": "garnished_additions:strider_meat"
+    "item": "garnished_additions:raw_strider"
   },
   "result": "garnished_additions:cooked_strider",
   "experience": 1,

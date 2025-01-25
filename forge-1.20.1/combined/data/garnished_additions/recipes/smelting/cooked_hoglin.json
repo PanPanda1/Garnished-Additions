@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "garnished_additions:hoglin_meat"
+    "item": "garnished_additions:raw_hoglin"
   },
   "result": "garnished_additions:cooked_hoglin",
   "experience": 1,

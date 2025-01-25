@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "garnished:cracked_nuts"
+    }
+  ],
+  "results": [
+    {
+      "item": "garnished_additions:nut_powder"
+    }
+  ]
+}

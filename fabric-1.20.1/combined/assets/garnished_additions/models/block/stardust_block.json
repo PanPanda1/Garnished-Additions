@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "garnished_additions:block/stardust_block",
+    "up": "garnished_additions:block/stardust_block",
+    "north": "garnished_additions:block/stardust_block",
+    "east": "garnished_additions:block/stardust_block",
+    "south": "garnished_additions:block/stardust_block",
+    "west": "garnished_additions:block/stardust_block",
+    "particle": "garnished_additions:block/stardust_block"
+  },
+  "render_type": "solid"
+}
