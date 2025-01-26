@@ -1,9 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "garnished_additions:block/ethereal_planks",
-    "top": "garnished_additions:block/ethereal_planks",
-    "side": "garnished_additions:block/ethereal_planks"
-  },
-  "render_type": "solid"
-}

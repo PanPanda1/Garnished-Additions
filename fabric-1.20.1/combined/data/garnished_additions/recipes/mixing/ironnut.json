@@ -11,7 +11,7 @@
         "item": "minecraft:iron_nugget"
       },
       {
-        "tag": "forge:nuts"
+        "tag": "c:nuts"
       }
     ],
     "results": [

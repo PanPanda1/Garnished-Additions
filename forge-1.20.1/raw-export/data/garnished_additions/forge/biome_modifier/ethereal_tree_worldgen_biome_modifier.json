@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "small_end_islands",
-  "features": "garnished_additions:ethereal_tree_worldgen",
-  "step": "vegetal_decoration"
-}

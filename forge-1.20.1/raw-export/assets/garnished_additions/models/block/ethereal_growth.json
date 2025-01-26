@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "garnished_additions:block/ethereal_sapling",
-    "particle": "garnished_additions:block/ethereal_sapling"
-  },
-  "render_type": "cutout"
-}

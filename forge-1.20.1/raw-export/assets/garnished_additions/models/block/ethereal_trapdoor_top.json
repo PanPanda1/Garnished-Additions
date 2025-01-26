@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "garnished_additions:block/ethereal_trapdoor",
-    "particle": "garnished_additions:block/ethereal_trapdoor"
-  },
-  "render_type": "cutout"
-}

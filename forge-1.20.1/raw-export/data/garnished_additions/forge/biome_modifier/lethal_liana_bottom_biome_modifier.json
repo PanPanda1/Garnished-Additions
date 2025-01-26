@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "basalt_deltas",
-  "features": "garnished_additions:lethal_liana_bottom",
-  "step": "vegetal_decoration"
-}

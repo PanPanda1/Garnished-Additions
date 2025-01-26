@@ -1,9 +1,0 @@
-{
-  "parent": "block/door_bottom_left",
-  "textures": {
-    "particle": "garnished_additions:block/ethereal_door_bottom",
-    "bottom": "garnished_additions:block/ethereal_door_bottom",
-    "top": "garnished_additions:block/ethereal_door_top"
-  },
-  "render_type": "cutout"
-}

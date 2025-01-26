@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_fence_gate_wall_open",
-  "textures": {
-    "particle": "garnished_additions:block/ethereal_planks",
-    "texture": "garnished_additions:block/ethereal_planks"
-  },
-  "render_type": "solid"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "garnished_additions:block/hazardous_hyphae",
-    "particle": "garnished_additions:block/hazardous_hyphae"
-  },
-  "render_type": "cutout"
-}
